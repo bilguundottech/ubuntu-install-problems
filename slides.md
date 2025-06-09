@@ -57,14 +57,6 @@ Custom built PC optimized for gaming and machine learning tasks. (disclaimer: I 
 - **Storage**: 1TB SSD
 - **Host**: GIGABYTE B760M GAMING WIFI PLUS
 
-<!--
-So before I begin, let me introduce you to my machine.
-This is my custom built PC, which I use for gaming and machine learning tasks.
-It has Intel i5-14400F CPU (Recent generation of Intel i5 series, F stands for no integrated graphics so I needed a separate GPU)
-NVIDIA GeForce RTX 4060 GPU (Recent generation of NVIDIA RTX 4060, which is a mid-range GPU, most affordable from NVIDIA's 40 series)
-32GB DDR5 RAM (
-and 1TB SSD storage.
--->
 
 <style>
 h1 {
@@ -78,6 +70,15 @@ h1 {
 }
 </style>
 
+<!--
+So before I begin, let me introduce you to my machine.
+This is my custom built PC, which I use for gaming and machine learning tasks.
+It has Intel i5-14400F CPU (Recent generation of Intel i5 series, F stands for no integrated graphics so I needed a separate GPU)
+NVIDIA GeForce RTX 4060 GPU (Recent generation of NVIDIA RTX 4060, which is a mid-range GPU, most affordable from NVIDIA's 40 series)
+32GB DDR5 RAM (
+and 1TB SSD storage.
+-->
+
 ---
 layout: center
 transition: slide-up
@@ -89,15 +90,15 @@ transition: slide-up
 
 <img src="/burning_usb.png" class="h-90" />
 
----
-layout: center
-transition: slide-up
----
-
 <!--
 Booting is the process where a computer starts up and loads the OS from the storage device into RAM.
 In this case, the storage device is a USB stick, which contains the Ubuntu image.
 -->
+
+---
+layout: center
+transition: slide-up
+---
 
 # Ubuntu installation flow
 
